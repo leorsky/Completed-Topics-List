@@ -1168,10 +1168,10 @@ My journey to Python Backend Developer
 
 
 # 27.07.2026
-# HTTP Response Structure & HTTP Methods
+# HTTP Response Structure, HTTP Methods & Status Codes
 #
-# Изучил структуру HTTP-ответа и основные HTTP-методы,
-# используемые для взаимодействия клиента и сервера.
+# Изучил структуру HTTP-ответа, основные HTTP-методы и систему
+# HTTP Status Codes, используемые для описания результата запроса.
 #
 # Изучил:
 # - Status Line.
@@ -1187,11 +1187,28 @@ My journey to Python Backend Developer
 # - HEAD.
 # - OPTIONS (обзор).
 #
+# HTTP Status Codes:
+# - 1xx — информационные.
+# - 2xx — успешные.
+# - 3xx — перенаправления.
+# - 4xx — ошибки клиента.
+# - 5xx — ошибки сервера.
+#
+# Основные Status Codes:
+# - 200 OK.
+# - 201 Created.
+# - 400 Bad Request.
+# - 401 Unauthorized.
+# - 403 Forbidden.
+# - 404 Not Found.
+# - 500 Internal Server Error.
+#
 # Практика:
 # - Разобрал структуру HTTP Response.
 # - Сравнил структуру Request и Response.
 # - Изучил назначение основных HTTP-методов.
-# - Разобрал, какие операции выполняются с помощью разных методов.
+# - Разобрал основные группы HTTP Status Codes.
+# - Научился понимать назначение основных кодов ответа.
 # - Сравнил PUT и PATCH.
 # - Разобрал особенности HEAD и OPTIONS.
 
