@@ -1168,9 +1168,10 @@ My journey to Python Backend Developer
 
 
 # 27.07.2026
-# HTTP Response Structure
+# HTTP Response Structure & HTTP Methods
 #
-# Изучил структуру HTTP-ответа.
+# Изучил структуру HTTP-ответа и основные HTTP-методы,
+# используемые для взаимодействия клиента и сервера.
 #
 # Изучил:
 # - Status Line.
@@ -1178,9 +1179,20 @@ My journey to Python Backend Developer
 # - Headers.
 # - Empty Line.
 # - Body.
+# - GET.
+# - POST.
+# - PUT.
+# - PATCH.
+# - DELETE.
+# - HEAD.
+# - OPTIONS (обзор).
 #
 # Практика:
-# - Разобрал HTTP Response.
+# - Разобрал структуру HTTP Response.
 # - Сравнил структуру Request и Response.
+# - Изучил назначение основных HTTP-методов.
+# - Разобрал, какие операции выполняются с помощью разных методов.
+# - Сравнил PUT и PATCH.
+# - Разобрал особенности HEAD и OPTIONS.
 
 
