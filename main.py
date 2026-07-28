@@ -1214,10 +1214,10 @@ My journey to Python Backend Developer
 
 
 # 28.07.2026
-# HTTP Headers, Cookies & JSON
+# HTTP Headers, Cookies, JSON & HTTP Request Analysis
 #
-# Изучил HTTP-заголовки, Cookies и основы работы с JSON
-# при обмене данными между клиентом и сервером.
+# Изучил HTTP-заголовки, Cookies, JSON и основы анализа HTTP-запросов
+# при взаимодействии клиента и сервера.
 #
 # Изучил:
 # - Что такое Headers.
@@ -1233,6 +1233,8 @@ My journey to Python Backend Developer
 # - JSON в HTTP.
 # - Request Body.
 # - Response Body.
+# - Разбор HTTP-запросов.
+# - Чтение HTTP-запросов через DevTools.
 #
 # Практика:
 # - Разобрал назначение HTTP-заголовков.
@@ -1245,3 +1247,5 @@ My journey to Python Backend Developer
 # - Разобрал использование JSON при обмене данными через HTTP.
 # - Изучил назначение Request Body и Response Body.
 # - Разобрал передачу JSON-данных в теле запроса и ответа.
+# - Научился анализировать HTTP-запросы.
+# - Изучил структуру HTTP-запросов через DevTools.
