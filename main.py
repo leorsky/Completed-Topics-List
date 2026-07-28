@@ -1214,10 +1214,10 @@ My journey to Python Backend Developer
 
 
 # 28.07.2026
-# HTTP Headers & Cookies
+# HTTP Headers, Cookies & JSON
 #
-# Изучил HTTP-заголовки и Cookies, которые используются
-# для обмена дополнительной информацией между клиентом и сервером.
+# Изучил HTTP-заголовки, Cookies и основы работы с JSON
+# при обмене данными между клиентом и сервером.
 #
 # Изучил:
 # - Что такое Headers.
@@ -1229,6 +1229,10 @@ My journey to Python Backend Developer
 # - Что такое Cookie.
 # - Как работают Cookies.
 # - Для чего используются Cookies.
+# - JSON.
+# - JSON в HTTP.
+# - Request Body.
+# - Response Body.
 #
 # Практика:
 # - Разобрал назначение HTTP-заголовков.
@@ -1238,3 +1242,6 @@ My journey to Python Backend Developer
 # - Разобрал User-Agent и информацию о клиенте.
 # - Разобрал принцип работы Cookies.
 # - Изучил основные случаи использования Cookies.
+# - Разобрал использование JSON при обмене данными через HTTP.
+# - Изучил назначение Request Body и Response Body.
+# - Разобрал передачу JSON-данных в теле запроса и ответа.
