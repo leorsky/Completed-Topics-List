@@ -1214,9 +1214,10 @@ My journey to Python Backend Developer
 
 
 # 28.07.2026
-# HTTP Headers
+# HTTP Headers & Cookies
 #
-# Изучил HTTP-заголовки и их роль во взаимодействии клиента и сервера.
+# Изучил HTTP-заголовки и Cookies, которые используются
+# для обмена дополнительной информацией между клиентом и сервером.
 #
 # Изучил:
 # - Что такое Headers.
@@ -1225,6 +1226,9 @@ My journey to Python Backend Developer
 # - Authorization.
 # - Accept.
 # - User-Agent.
+# - Что такое Cookie.
+# - Как работают Cookies.
+# - Для чего используются Cookies.
 #
 # Практика:
 # - Разобрал назначение HTTP-заголовков.
@@ -1232,3 +1236,5 @@ My journey to Python Backend Developer
 # - Разобрал разницу между Content-Type и Accept.
 # - Изучил использование Authorization для передачи данных авторизации.
 # - Разобрал User-Agent и информацию о клиенте.
+# - Разобрал принцип работы Cookies.
+# - Изучил основные случаи использования Cookies.
