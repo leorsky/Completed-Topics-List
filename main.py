@@ -1249,3 +1249,29 @@ My journey to Python Backend Developer
 # - Разобрал передачу JSON-данных в теле запроса и ответа.
 # - Научился анализировать HTTP-запросы.
 # - Изучил структуру HTTP-запросов через DevTools.
+
+
+# 29.07.2026
+# HTTP Review & Practice
+#
+# Повторил и закрепил темы, изученные за последние дни.
+#
+# Повторил:
+# - Структуру HTTP Request и Response.
+# - HTTP Methods: GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS.
+# - HTTP Status Codes и основные коды ответа.
+# - HTTP Headers.
+# - Content-Type.
+# - Authorization.
+# - Accept.
+# - User-Agent.
+# - Cookies и принцип их работы.
+# - JSON в HTTP.
+# - Request Body и Response Body.
+# - Разбор HTTP-запросов через DevTools.
+#
+# Практика:
+# - Повторил основные HTTP-концепции.
+# - Закрепил назначение методов, заголовков и Status Codes.
+# - Повторно разбирал HTTP-запросы и ответы через DevTools.
+# - Закрепил понимание структуры HTTP Request и Response.
