@@ -1292,6 +1292,7 @@ My journey to Python Backend Developer
 # - Принципы REST.
 # - Ресурсы в REST.
 # - Endpoint.
+# - CRUD.
 #
 # Практика:
 # - Разобрал принцип работы API на простом примере.
@@ -1302,4 +1303,5 @@ My journey to Python Backend Developer
 # - Разобрал, как ресурсы представляются в API.
 # - Изучил понятие Endpoint и его роль в API.
 # - Разобрал связь между ресурсами и Endpoint.
+# - Изучил концепцию CRUD и основные операции работы с ресурсами.
 # - Разобрал связь между REST и API.
