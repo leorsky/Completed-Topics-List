@@ -1311,7 +1311,7 @@ My journey to Python Backend Developer
 
 
 # 31.07.2026
-# Query Parameters
+# Query Parameters & Path Parameters
 #
 # Продолжил изучение REST API и способов передачи данных в запросах.
 #
@@ -1319,8 +1319,13 @@ My journey to Python Backend Developer
 # - Query Parameters.
 # - Для чего используются Query Parameters.
 # - Как Query Parameters передаются в URL.
+# - Path Parameters.
+# - Для чего используются Path Parameters.
+# - Как Path Parameters передаются в URL.
 #
 # Практика:
 # - Разобрал структуру Query Parameters.
 # - Рассмотрел использование Query Parameters для фильтрации и поиска данных.
 # - Разобрал разницу между параметрами запроса и основным URL.
+# - Изучил принцип работы Path Parameters.
+# - Разобрал разницу между Query Parameters и Path Parameters.
