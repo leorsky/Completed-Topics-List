@@ -1311,7 +1311,7 @@ My journey to Python Backend Developer
 
 
 # 31.07.2026
-# Query Parameters & Path Parameters
+# Query Parameters, Path Parameters & JSON API
 #
 # Продолжил изучение REST API и способов передачи данных в запросах.
 #
@@ -1322,6 +1322,7 @@ My journey to Python Backend Developer
 # - Path Parameters.
 # - Для чего используются Path Parameters.
 # - Как Path Parameters передаются в URL.
+# - JSON API.
 #
 # Практика:
 # - Разобрал структуру Query Parameters.
@@ -1329,3 +1330,5 @@ My journey to Python Backend Developer
 # - Разобрал разницу между параметрами запроса и основным URL.
 # - Изучил принцип работы Path Parameters.
 # - Разобрал разницу между Query Parameters и Path Parameters.
+# - Изучил роль JSON в REST API.
+# - Разобрал передачу данных в формате JSON через API.
