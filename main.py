@@ -1335,7 +1335,7 @@ My journey to Python Backend Developer
 
 
 # 01.08.2026
-# HTTP & REST API Review
+# HTTP & REST API Review + API Versioning
 #
 # Повторил и закрепил изученные ранее темы.
 #
@@ -1357,9 +1357,14 @@ My journey to Python Backend Developer
 # - URI.
 # - JSON API.
 #
+# Новая тема:
+# - Версионирование API (базово).
+#
 # Практика:
 # - Повторил основные концепции HTTP и REST API.
-# - Закрепил различия между Query Parameters и Path Parameters.
-# - Повторил структуру запросов и ответов.
-# - Закрепил изученные HTTP-методы и статус-коды.
-# - Повторил основные принципы работы REST API.
+# - Закрепил структуру HTTP-запросов и ответов.
+# - Повторил HTTP-методы и статус-коды.
+# - Закрепил работу с Headers, Cookies и JSON.
+# - Повторил Query Parameters и Path Parameters.
+# - Повторил основные концепции REST API.
+# - Изучил базовые подходы к версионированию API.
