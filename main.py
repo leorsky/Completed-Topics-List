@@ -1332,3 +1332,34 @@ My journey to Python Backend Developer
 # - Разобрал разницу между Query Parameters и Path Parameters.
 # - Изучил роль JSON в REST API.
 # - Разобрал передачу данных в формате JSON через API.
+
+
+# 01.08.2026
+# HTTP & REST API Review
+#
+# Повторил и закрепил изученные ранее темы.
+#
+# Повторил:
+# - HTTP и HTTPS.
+# - Структуру HTTP Request и Response.
+# - HTTP Methods.
+# - HTTP Status Codes.
+# - Headers.
+# - Cookies.
+# - JSON в HTTP.
+# - Query Parameters.
+# - Path Parameters.
+# - API и REST.
+# - Принципы REST.
+# - Resources.
+# - Endpoint.
+# - CRUD.
+# - URI.
+# - JSON API.
+#
+# Практика:
+# - Повторил основные концепции HTTP и REST API.
+# - Закрепил различия между Query Parameters и Path Parameters.
+# - Повторил структуру запросов и ответов.
+# - Закрепил изученные HTTP-методы и статус-коды.
+# - Повторил основные принципы работы REST API.
