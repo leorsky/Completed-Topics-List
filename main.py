@@ -1335,9 +1335,9 @@ My journey to Python Backend Developer
 
 
 # 01.08.2026
-# HTTP & REST API Review + API Versioning
+# HTTP & REST API Review + API Versioning & Idempotency
 #
-# Повторил и закрепил изученные ранее темы.
+# Повторил и закрепил изученные ранее темы, а также продолжил изучение REST API.
 #
 # Повторил:
 # - HTTP и HTTPS.
@@ -1357,8 +1357,11 @@ My journey to Python Backend Developer
 # - URI.
 # - JSON API.
 #
-# Новая тема:
+# Новые темы:
 # - Версионирование API (базово).
+# - Идемпотентность.
+# - Идемпотентные HTTP-методы.
+# - GET, PUT и DELETE как идемпотентные методы.
 #
 # Практика:
 # - Повторил основные концепции HTTP и REST API.
@@ -1367,4 +1370,7 @@ My journey to Python Backend Developer
 # - Закрепил работу с Headers, Cookies и JSON.
 # - Повторил Query Parameters и Path Parameters.
 # - Повторил основные концепции REST API.
-# - Изучил базовые подходы к версионированию API.
+# - Разобрал базовые подходы к версионированию API.
+# - Изучил понятие идемпотентности в HTTP.
+# - Разобрал, какие HTTP-методы являются идемпотентными.
+# - Разобрал идемпотентность GET, PUT и DELETE.
