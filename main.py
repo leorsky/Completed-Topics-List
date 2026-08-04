@@ -1432,7 +1432,7 @@ My journey to Python Backend Developer
 
 
 # 04.08.2026
-# HTTP Clients in Python: Requests & GET
+# HTTP Clients in Python: Requests, GET & POST
 #
 # Перешёл к новому блоку изучения HTTP-клиентов в Python.
 # Начал изучать библиотеку requests и работу с GitHub API.
@@ -1441,13 +1441,16 @@ My journey to Python Backend Developer
 # - HTTP-клиенты в Python.
 # - Библиотеку requests.
 # - GET-запросы.
+# - POST-запросы.
 # - requests.get().
+# - requests.post().
 # - Основы работы с GitHub API.
 #
 # Практика:
 # - Отправлял GET-запросы с помощью requests.
 # - Работал с GitHub API.
 # - Получал данные из GitHub API.
+# - Отправлял POST-запросы.
 # - Работал с объектом Response.
-# - Изучил получение данных из HTTP-ответа.
+# - Получал и обрабатывал данные из HTTP-ответов.
 # - Практиковался в отправке запросов к реальному API.
