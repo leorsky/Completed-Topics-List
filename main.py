@@ -1432,7 +1432,7 @@ My journey to Python Backend Developer
 
 
 # 04.08.2026
-# HTTP Clients in Python: Requests, GET, POST, PUT, PATCH & DELETE
+# HTTP Clients in Python: Requests, HTTP Methods & Headers
 #
 # Перешёл к новому блоку изучения HTTP-клиентов в Python.
 # Начал изучать библиотеку requests и работу с GitHub API.
@@ -1445,11 +1445,8 @@ My journey to Python Backend Developer
 # - PUT-запросы.
 # - PATCH-запросы.
 # - DELETE-запросы.
-# - requests.get().
-# - requests.post().
-# - requests.put().
-# - requests.patch().
-# - requests.delete().
+# - HTTP Headers.
+# - Передачу Headers в HTTP-запросах.
 # - Основы работы с GitHub API.
 #
 # Практика:
@@ -1460,6 +1457,7 @@ My journey to Python Backend Developer
 # - Отправлял PUT-запросы.
 # - Отправлял PATCH-запросы для частичного обновления данных.
 # - Отправлял DELETE-запросы для удаления данных.
+# - Добавлял Headers в HTTP-запросы.
 # - Работал с объектом Response.
 # - Получал и обрабатывал данные из HTTP-ответов.
 # - Практиковался в отправке запросов к реальному API.
