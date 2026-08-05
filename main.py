@@ -1464,7 +1464,7 @@ My journey to Python Backend Developer
 
 
 # 05.08.2026
-# HTTP Clients in Python: Query Parameters
+# HTTP Clients in Python: Query Parameters & JSON
 #
 # Продолжил изучение HTTP-клиентов в Python и работу с библиотекой requests.
 #
@@ -1473,10 +1473,15 @@ My journey to Python Backend Developer
 # - Передачу параметров через requests.get().
 # - Использование аргумента params.
 # - Формирование URL с параметрами запроса.
+# - Работа с JSON в requests.
+# - Метод response.json().
+# - Получение и обработку JSON-ответов от API.
 #
 # Практика:
 # - Отправлял GET-запросы с Query Parameters.
 # - Передавал параметры в виде словаря через params.
 # - Работал с GitHub API, используя параметры запроса.
-# - Получал и обрабатывал ответы от API.
-# - Закрепил работу с параметрами HTTP-запросов.
+# - Получал JSON-данные от API.
+# - Преобразовывал ответы в Python-объекты с помощью response.json().
+# - Работал с данными, полученными в формате JSON.
+# - Закрепил работу с параметрами HTTP-запросов и JSON-ответами.
