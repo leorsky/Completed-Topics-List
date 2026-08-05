@@ -1464,7 +1464,7 @@ My journey to Python Backend Developer
 
 
 # 05.08.2026
-# HTTP Clients in Python: Query Parameters, JSON, Timeout & Error Handling
+# HTTP Clients in Python: Query Parameters, JSON, Timeout, Error Handling & Sync Client
 #
 # Продолжил изучение HTTP-клиентов в Python и работу с библиотекой requests.
 #
@@ -1481,6 +1481,8 @@ My journey to Python Backend Developer
 # - Обработку ошибок при работе с requests.
 # - try / except.
 # - response.raise_for_status().
+# - Синхронный HTTP-клиент.
+# - Принцип последовательного выполнения HTTP-запросов.
 #
 # Практика:
 # - Отправлял GET-запросы с Query Parameters.
@@ -1488,8 +1490,8 @@ My journey to Python Backend Developer
 # - Работал с GitHub API, используя параметры запроса.
 # - Получал JSON-данные от API.
 # - Преобразовывал ответы в Python-объекты с помощью response.json().
-# - Работал с данными, полученными в формате JSON.
 # - Использовал timeout при отправке HTTP-запросов.
 # - Обрабатывал ошибки сети и HTTP-ответов.
 # - Использовал response.raise_for_status() для проверки успешности запроса.
+# - Практиковался в создании синхронного HTTP-клиента на библиотеке requests.
 # - Закрепил работу с параметрами HTTP-запросов, JSON-ответами и обработкой ошибок.
