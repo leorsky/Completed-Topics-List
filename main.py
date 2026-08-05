@@ -1487,6 +1487,7 @@ My journey to Python Backend Developer
 # - Библиотеку httpx.
 # - AsyncClient.
 # - async / await.
+# - Отличия httpx от requests.
 #
 # Практика:
 # - Отправлял GET-запросы с Query Parameters.
@@ -1500,4 +1501,5 @@ My journey to Python Backend Developer
 # - Практиковался в создании синхронного HTTP-клиента с помощью requests.
 # - Практиковался в создании асинхронного HTTP-клиента с помощью httpx.AsyncClient.
 # - Использовал async / await для выполнения HTTP-запросов.
-# - Сравнил синхронный и асинхронный подходы к работе с HTTP.
+# - Сравнил возможности библиотек requests и httpx.
+# - Закрепил понимание различий между синхронным и асинхронным подходами.
