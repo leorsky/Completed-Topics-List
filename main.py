@@ -1464,9 +1464,9 @@ My journey to Python Backend Developer
 
 
 # 05.08.2026
-# HTTP Clients in Python: Query Parameters, JSON, Timeout, Error Handling & Sync Client
+# HTTP Clients in Python: Query Parameters, JSON, Timeout, Error Handling, Sync & Async Client
 #
-# Продолжил изучение HTTP-клиентов в Python и работу с библиотекой requests.
+# Продолжил изучение HTTP-клиентов в Python и работу с библиотеками requests и httpx.
 #
 # Изучил:
 # - Query Parameters (Params).
@@ -1483,6 +1483,10 @@ My journey to Python Backend Developer
 # - response.raise_for_status().
 # - Синхронный HTTP-клиент.
 # - Принцип последовательного выполнения HTTP-запросов.
+# - Асинхронный HTTP-клиент.
+# - Библиотеку httpx.
+# - AsyncClient.
+# - async / await.
 #
 # Практика:
 # - Отправлял GET-запросы с Query Parameters.
@@ -1493,5 +1497,7 @@ My journey to Python Backend Developer
 # - Использовал timeout при отправке HTTP-запросов.
 # - Обрабатывал ошибки сети и HTTP-ответов.
 # - Использовал response.raise_for_status() для проверки успешности запроса.
-# - Практиковался в создании синхронного HTTP-клиента на библиотеке requests.
-# - Закрепил работу с параметрами HTTP-запросов, JSON-ответами и обработкой ошибок.
+# - Практиковался в создании синхронного HTTP-клиента с помощью requests.
+# - Практиковался в создании асинхронного HTTP-клиента с помощью httpx.AsyncClient.
+# - Использовал async / await для выполнения HTTP-запросов.
+# - Сравнил синхронный и асинхронный подходы к работе с HTTP.
