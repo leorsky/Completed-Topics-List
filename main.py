@@ -1511,10 +1511,9 @@ My journey to Python Backend Developer
 
 
 # 06.08.2026
-# GitHub API & OOP HTTP Client
+# Completed Python HTTP Clients Block
 #
-# Продолжил изучение HTTP-клиентов в Python.
-# Начал подробно изучать работу с GitHub API.
+# Завершил изучение блока "HTTP-клиенты в Python".
 #
 # Изучил:
 # - GitHub API.
@@ -1532,4 +1531,8 @@ My journey to Python Backend Developer
 # - Формировал собственные HTTP-запросы.
 # - Реализовал HTTP-клиент с использованием ООП.
 # - Создавал классы для работы с HTTP-запросами.
-# - Практиковался в работе с реальным REST API.
+# - Закрепил работу с реальным REST API.
+#
+# Итог:
+# - Полностью завершил блок "HTTP-клиенты в Python".
+# - Готов перейти к изучению следующего блока.
