@@ -1546,7 +1546,10 @@ My journey to Python Backend Developer
 # Изучил:
 # - Установку Postman.
 # - Первоначальную настройку Postman.
+# - Создание HTTP-запросов.
 #
 # Практика:
 # - Установил Postman.
 # - Подготовил Postman для работы с API.
+# - Создавал HTTP-запросы в Postman.
+# - Отправлял запросы через Postman.
