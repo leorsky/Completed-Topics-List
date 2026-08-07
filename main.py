@@ -1576,6 +1576,8 @@ My journey to Python Backend Developer
 #
 # Изучил:
 # - Что такое Swagger.
+# - Что такое OpenAPI.
 #
 # Практика:
 # - Познакомился со Swagger и его использованием для работы с документацией API.
+# - Изучил OpenAPI как стандарт описания API.
