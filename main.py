@@ -1565,3 +1565,7 @@ My journey to Python Backend Developer
 # - Работал с Cookies в Postman.
 # - Настраивал Authorization для HTTP-запросов.
 # - Тестировал API с помощью Postman.
+#
+# Итог:
+# - Полностью завершил блок "Postman".
+# - Закрепил практическую работу с API в Postman.
