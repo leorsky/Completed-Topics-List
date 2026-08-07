@@ -1548,6 +1548,7 @@ My journey to Python Backend Developer
 # - Первоначальную настройку Postman.
 # - Создание HTTP-запросов.
 # - Коллекции.
+# - Environment.
 #
 # Практика:
 # - Установил Postman.
@@ -1555,3 +1556,4 @@ My journey to Python Backend Developer
 # - Создавал HTTP-запросы в Postman.
 # - Отправлял запросы через Postman.
 # - Создавал и организовывал запросы в коллекциях.
+# - Создавал и использовал Environment для хранения переменных.
