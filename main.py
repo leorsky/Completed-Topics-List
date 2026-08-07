@@ -1552,6 +1552,7 @@ My journey to Python Backend Developer
 # - Headers.
 # - Cookies.
 # - Authorization.
+# - Тестирование API.
 #
 # Практика:
 # - Установил Postman.
@@ -1563,3 +1564,4 @@ My journey to Python Backend Developer
 # - Добавлял Headers в HTTP-запросы.
 # - Работал с Cookies в Postman.
 # - Настраивал Authorization для HTTP-запросов.
+# - Тестировал API с помощью Postman.
