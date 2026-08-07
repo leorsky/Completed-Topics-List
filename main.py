@@ -1551,6 +1551,7 @@ My journey to Python Backend Developer
 # - Environment.
 # - Headers.
 # - Cookies.
+# - Authorization.
 #
 # Практика:
 # - Установил Postman.
@@ -1561,3 +1562,4 @@ My journey to Python Backend Developer
 # - Создавал и использовал Environment для хранения переменных.
 # - Добавлял Headers в HTTP-запросы.
 # - Работал с Cookies в Postman.
+# - Настраивал Authorization для HTTP-запросов.
