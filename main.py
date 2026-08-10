@@ -1673,12 +1673,15 @@ My journey to Python Backend Developer
 # 10.08.2026
 # Phase 3 — SQL & PostgreSQL
 #
-# Продолжил работу с блоком "SQL и PostgreSQL".
+# Продолжил работу с блоком "SQL & PostgreSQL".
 #
 # Изучил:
 # - CREATE DATABASE.
+# - CREATE TABLE.
 #
 # Практика:
 # - Создал базу данных в PostgreSQL через pgAdmin 4.
 # - Использовал Query Tool в pgAdmin 4 для выполнения SQL-запроса.
 # - Проверил успешное создание базы данных.
+# - Создал таблицу в PostgreSQL с помощью CREATE TABLE.
+# - Определил столбцы и их типы данных при создании таблицы.
