@@ -1718,6 +1718,7 @@ My journey to Python Backend Developer
 # - SELECT.
 # - UPDATE.
 # - DELETE.
+# - WHERE.
 #
 # Практика:
 # - Использовал INSERT для добавления данных в таблицы PostgreSQL.
@@ -1732,6 +1733,8 @@ My journey to Python Backend Developer
 # - Использовал DELETE для удаления существующих записей из таблиц.
 # - Удалял выбранные записи с помощью условия WHERE.
 # - Практиковался в удалении данных через Query Tool в pgAdmin 4.
+# - Использовал WHERE для фильтрации записей по заданному условию.
+# - Применял WHERE в SELECT, UPDATE и DELETE запросах.
 #
 # Практика с базой данных библиотеки:
 # - Создал таблицы authors и books.
@@ -1742,3 +1745,4 @@ My journey to Python Backend Developer
 # - Удалял записи из таблиц с помощью DELETE.
 # - Практиковался с CRUD-операциями на примере базы данных библиотеки.
 # - Выполнял SQL-запросы через Query Tool в pgAdmin 4.
+# - Использовал WHERE для работы с конкретными записями в базе данных библиотеки.
