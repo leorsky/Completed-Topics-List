@@ -1805,3 +1805,4 @@ My journey to Python Backend Developer
 # - Повторил Headers и Cookies.
 # - Повторил работу с JSON в HTTP.
 # - Закрепил основные темы по HTTP на практике.
+
