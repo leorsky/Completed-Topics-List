@@ -1838,6 +1838,7 @@ My journey to Python Backend Developer
 # Изучил:
 # - RIGHT JOIN.
 # - FULL JOIN.
+# - Самосоединение (Self Join — обзор).
 #
 # Практика:
 # - Изучил RIGHT JOIN для получения всех записей из правой таблицы.
@@ -1846,3 +1847,6 @@ My journey to Python Backend Developer
 # - Изучил FULL JOIN для получения всех записей из обеих таблиц.
 # - Практиковался в объединении таблиц с помощью FULL JOIN.
 # - Сравнивал FULL JOIN с LEFT JOIN и RIGHT JOIN.
+# - Изучил Self Join для соединения таблицы с самой собой.
+# - Разобрал принцип работы Self Join и использование псевдонимов таблицы.
+# - Практиковался в составлении простых запросов с Self Join.
