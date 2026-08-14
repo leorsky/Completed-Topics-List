@@ -1837,8 +1837,12 @@ My journey to Python Backend Developer
 #
 # Изучил:
 # - RIGHT JOIN.
+# - FULL JOIN.
 #
 # Практика:
 # - Изучил RIGHT JOIN для получения всех записей из правой таблицы.
 # - Практиковался в объединении таблиц с помощью RIGHT JOIN.
 # - Сравнивал RIGHT JOIN с LEFT JOIN.
+# - Изучил FULL JOIN для получения всех записей из обеих таблиц.
+# - Практиковался в объединении таблиц с помощью FULL JOIN.
+# - Сравнивал FULL JOIN с LEFT JOIN и RIGHT JOIN.
