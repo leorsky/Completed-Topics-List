@@ -2020,7 +2020,7 @@ My journey to Python Backend Developer
 # 18.08.2026
 # Phase 4 — SQLAlchemy и Alembic
 #
-# Перешёл к новой Phase 4 и новому блоку "Основы ORM".
+# Перешёл к новой Phase 4 и завершил блок "Основы ORM".
 #
 # Цель Phase 4:
 # - Научиться работать с PostgreSQL через ORM SQLAlchemy.
@@ -2072,3 +2072,8 @@ My journey to Python Backend Developer
 # - Разобрал, как модели наследуются от общего базового класса.
 # - Понял связь Declarative Base с Metadata и описанием таблиц.
 # - Практиковался в создании базового класса для ORM-моделей.
+#
+# Итог:
+# - Завершил блок "Основы ORM".
+# - Закрепил основные компоненты SQLAlchemy: Engine, Session, Metadata и Declarative Base.
+# - Получил базовое понимание структуры ORM-проекта.
