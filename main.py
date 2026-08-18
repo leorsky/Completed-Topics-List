@@ -2036,6 +2036,7 @@ My journey to Python Backend Developer
 # - SQLAlchemy.
 # - Структура ORM-проекта.
 # - Engine.
+# - Session.
 #
 # Практика:
 # - Разобрал назначение ORM при работе с базами данных.
@@ -2058,3 +2059,7 @@ My journey to Python Backend Developer
 # - Разобрал роль Engine как основной точки взаимодействия SQLAlchemy с базой данных.
 # - Изучил создание Engine с помощью create_engine().
 # - Практиковался в настройке подключения к PostgreSQL через Engine.
+# - Изучил Session в SQLAlchemy.
+# - Разобрал роль Session для взаимодействия с базой данных и управления операциями.
+# - Познакомился с созданием Session через sessionmaker.
+# - Практиковался в открытии и закрытии сессии для работы с базой данных.
