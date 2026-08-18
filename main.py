@@ -2038,6 +2038,7 @@ My journey to Python Backend Developer
 # - Engine.
 # - Session.
 # - Metadata.
+# - Declarative Base.
 #
 # Практика:
 # - Разобрал назначение ORM при работе с базами данных.
@@ -2067,3 +2068,7 @@ My journey to Python Backend Developer
 # - Изучил Metadata в SQLAlchemy.
 # - Разобрал, как Metadata хранит информацию о структуре таблиц и других объектов базы данных.
 # - Практиковался в использовании Metadata для описания структуры базы данных.
+# - Изучил Declarative Base для создания ORM-моделей.
+# - Разобрал, как модели наследуются от общего базового класса.
+# - Понял связь Declarative Base с Metadata и описанием таблиц.
+# - Практиковался в создании базового класса для ORM-моделей.
