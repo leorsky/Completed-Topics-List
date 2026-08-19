@@ -2092,6 +2092,7 @@ My journey to Python Backend Developer
 # - mapped_column.
 # - Типы данных.
 # - primary_key.
+# - nullable.
 #
 # Практика:
 # - Разобрал, что такое ORM-модель в SQLAlchemy.
@@ -2111,3 +2112,6 @@ My journey to Python Backend Developer
 # - Изучил primary_key для определения первичного ключа модели.
 # - Разобрал назначение первичного ключа и его связь с уникальной идентификацией записи.
 # - Практиковался в создании поля с primary_key=True.
+# - Изучил nullable для определения, может ли столбец содержать NULL.
+# - Разобрал разницу между nullable=True и nullable=False.
+# - Практиковался в настройке обязательных и необязательных полей модели.
