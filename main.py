@@ -2077,3 +2077,22 @@ My journey to Python Backend Developer
 # - Завершил блок "Основы ORM".
 # - Закрепил основные компоненты SQLAlchemy: Engine, Session, Metadata и Declarative Base.
 # - Получил базовое понимание структуры ORM-проекта.
+
+
+# 19.08.2026
+# Phase 4 — SQLAlchemy и Alembic
+#
+# Перешёл к новому блоку "SQLAlchemy Models".
+#
+# Блок 2 — SQLAlchemy Models.
+#
+# Изучил:
+# - Создание моделей.
+#
+# Практика:
+# - Разобрал, что такое ORM-модель в SQLAlchemy.
+# - Изучил связь модели Python с таблицей PostgreSQL.
+# - Практиковался в создании первых ORM-моделей.
+# - Создавал классы моделей на основе Declarative Base.
+# - Разбирал структуру модели и её основные атрибуты.
+# - Закрепил создание моделей для дальнейшей работы с PostgreSQL.
