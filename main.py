@@ -2658,6 +2658,7 @@ My journey to Python Backend Developer
 # - Path Parameters.
 # - Query Parameters.
 # - Request Body.
+# - Response Model.
 #
 # Практика:
 # - Изучил декоратор @app.get() для создания GET-маршрутов.
@@ -2697,3 +2698,8 @@ My journey to Python Backend Developer
 # - Разобрал использование Request Body в POST, PUT и PATCH-запросах.
 # - Практиковался в получении данных из Request Body в обработчиках FastAPI.
 # - Закрепил использование Request Body при создании и изменении данных.
+# - Изучил Response Model для определения структуры данных, возвращаемых API.
+# - Разобрал использование response_model в маршрутах FastAPI.
+# - Практиковался в создании моделей ответа для endpoint.
+# - Понял, как Response Model помогает контролировать данные, возвращаемые клиенту.
+# - Закрепил использование Response Model для формирования корректного ответа API.
