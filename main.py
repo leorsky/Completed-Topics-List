@@ -2714,3 +2714,9 @@ My journey to Python Backend Developer
 # - Практиковался в добавлении тегов к endpoint.
 # - Понял, как Tags помогают структурировать документацию API.
 # - Закрепил использование Tags для удобной организации маршрутов в Swagger и ReDoc.
+#
+# Итог:
+# - Завершил блок 2 "Маршруты (Routes)".
+# - Закрепил создание и настройку основных HTTP-маршрутов в FastAPI.
+# - Научился работать с Path Parameters, Query Parameters и Request Body.
+# - Закрепил использование Response Model, Status Codes и Tags.
