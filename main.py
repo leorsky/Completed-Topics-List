@@ -2654,6 +2654,7 @@ My journey to Python Backend Developer
 # - @app.post().
 # - @app.put().
 # - @app.patch().
+# - @app.delete().
 #
 # Практика:
 # - Изучил декоратор @app.get() для создания GET-маршрутов.
@@ -2676,3 +2677,8 @@ My journey to Python Backend Developer
 # - Практиковался в создании PATCH-endpoint с помощью @app.patch().
 # - Проверил обработку PATCH-запросов через созданные маршруты.
 # - Закрепил создание GET, POST, PUT и PATCH-маршрутов в FastAPI.
+# - Изучил декоратор @app.delete() для создания DELETE-маршрутов.
+# - Разобрал назначение DELETE-запросов для удаления данных на сервере.
+# - Практиковался в создании DELETE-endpoint с помощью @app.delete().
+# - Проверил обработку DELETE-запросов через созданные маршруты.
+# - Закрепил создание GET, POST, PUT, PATCH и DELETE-маршрутов в FastAPI.
