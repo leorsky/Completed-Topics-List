@@ -2657,6 +2657,7 @@ My journey to Python Backend Developer
 # - @app.delete().
 # - Path Parameters.
 # - Query Parameters.
+# - Request Body.
 #
 # Практика:
 # - Изучил декоратор @app.get() для создания GET-маршрутов.
@@ -2692,3 +2693,7 @@ My journey to Python Backend Developer
 # - Разобрал отличие Query Parameters от Path Parameters.
 # - Практиковался в создании маршрутов с Query Parameters.
 # - Закрепил получение и использование значений Query Parameters в обработчиках.
+# - Изучил Request Body для передачи данных в теле HTTP-запроса.
+# - Разобрал использование Request Body в POST, PUT и PATCH-запросах.
+# - Практиковался в получении данных из Request Body в обработчиках FastAPI.
+# - Закрепил использование Request Body при создании и изменении данных.
