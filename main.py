@@ -2656,6 +2656,7 @@ My journey to Python Backend Developer
 # - @app.patch().
 # - @app.delete().
 # - Path Parameters.
+# - Query Parameters.
 #
 # Практика:
 # - Изучил декоратор @app.get() для создания GET-маршрутов.
@@ -2687,3 +2688,7 @@ My journey to Python Backend Developer
 # - Разобрал использование динамических частей пути в маршрутах FastAPI.
 # - Практиковался в создании маршрутов с Path Parameters.
 # - Закрепил получение и использование значений Path Parameters в обработчиках.
+# - Изучил Query Parameters для передачи дополнительных параметров через URL.
+# - Разобрал отличие Query Parameters от Path Parameters.
+# - Практиковался в создании маршрутов с Query Parameters.
+# - Закрепил получение и использование значений Query Parameters в обработчиках.
