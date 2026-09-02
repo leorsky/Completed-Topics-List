@@ -2660,6 +2660,7 @@ My journey to Python Backend Developer
 # - Request Body.
 # - Response Model.
 # - Status Codes.
+# - Tags.
 #
 # Практика:
 # - Изучил декоратор @app.get() для создания GET-маршрутов.
@@ -2708,3 +2709,8 @@ My journey to Python Backend Developer
 # - Разобрал использование кодов состояния HTTP в маршрутах FastAPI.
 # - Практиковался в указании Status Codes для разных операций API.
 # - Закрепил использование корректных HTTP Status Codes в FastAPI.
+# - Изучил Tags для группировки маршрутов в документации FastAPI.
+# - Разобрал использование параметра tags в декораторах маршрутов.
+# - Практиковался в добавлении тегов к endpoint.
+# - Понял, как Tags помогают структурировать документацию API.
+# - Закрепил использование Tags для удобной организации маршрутов в Swagger и ReDoc.
