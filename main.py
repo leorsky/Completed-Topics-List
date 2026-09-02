@@ -2659,6 +2659,7 @@ My journey to Python Backend Developer
 # - Query Parameters.
 # - Request Body.
 # - Response Model.
+# - Status Codes.
 #
 # Практика:
 # - Изучил декоратор @app.get() для создания GET-маршрутов.
@@ -2703,3 +2704,7 @@ My journey to Python Backend Developer
 # - Практиковался в создании моделей ответа для endpoint.
 # - Понял, как Response Model помогает контролировать данные, возвращаемые клиенту.
 # - Закрепил использование Response Model для формирования корректного ответа API.
+# - Изучил Status Codes для указания результата обработки HTTP-запроса.
+# - Разобрал использование кодов состояния HTTP в маршрутах FastAPI.
+# - Практиковался в указании Status Codes для разных операций API.
+# - Закрепил использование корректных HTTP Status Codes в FastAPI.
