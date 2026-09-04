@@ -2720,3 +2720,20 @@ My journey to Python Backend Developer
 # - Закрепил создание и настройку основных HTTP-маршрутов в FastAPI.
 # - Научился работать с Path Parameters, Query Parameters и Request Body.
 # - Закрепил использование Response Model, Status Codes и Tags.
+
+
+# 04.09.2026
+# Phase 5 — FastAPI
+#
+# Перешёл к новому блоку "Pydantic".
+#
+# Блок 3 — Pydantic.
+#
+# Изучил:
+# - Что такое Pydantic.
+#
+# Практика:
+# - Изучил, что такое Pydantic и для чего он используется.
+# - Разобрал роль Pydantic в валидации и обработке данных.
+# - Понял, как Pydantic используется вместе с FastAPI.
+# - Закрепил базовое понимание Pydantic и его назначения при разработке API.
