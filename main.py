@@ -2866,6 +2866,7 @@ My journey to Python Backend Developer
 #
 # Изучил:
 # - Что такое Dependency Injection.
+# - Depends().
 #
 # Практика:
 # - Снова начал изучение Dependency Injection (DI).
@@ -2874,3 +2875,8 @@ My journey to Python Backend Developer
 # - Понял, зачем Dependency Injection используется в FastAPI.
 # - Разобрал, как зависимости позволяют выносить общую логику из endpoint.
 # - Закрепил базовый принцип Dependency Injection в FastAPI.
+# - Изучил Depends() для подключения зависимостей к обработчикам маршрутов.
+# - Разобрал, как Depends() передаёт результат зависимости в endpoint.
+# - Практиковался в создании простых зависимостей и подключении их через Depends().
+# - Понял, как FastAPI автоматически вызывает указанную зависимость.
+# - Закрепил базовое использование Depends() в FastAPI.
