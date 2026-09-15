@@ -2856,3 +2856,21 @@ My journey to Python Backend Developer
 #
 # Отдых.
 
+
+# 15.09.2026
+# Phase 5 — FastAPI
+#
+# Снова начал изучение блока "Dependency Injection".
+#
+# Блок 4 — Dependency Injection.
+#
+# Изучил:
+# - Что такое Dependency Injection.
+#
+# Практика:
+# - Снова начал изучение Dependency Injection (DI).
+# - Повторил, что такое Dependency Injection.
+# - Разобрал идею внедрения зависимостей в приложение.
+# - Понял, зачем Dependency Injection используется в FastAPI.
+# - Разобрал, как зависимости позволяют выносить общую логику из endpoint.
+# - Закрепил базовый принцип Dependency Injection в FastAPI.
