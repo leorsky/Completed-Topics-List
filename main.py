@@ -2919,6 +2919,7 @@ My journey to Python Backend Developer
 # Изучил:
 # - Подключение PostgreSQL.
 # - Работа с Session.
+# - CRUD через API.
 #
 # Практика:
 # - Изучил подключение FastAPI-приложения к PostgreSQL через SQLAlchemy.
@@ -2932,3 +2933,10 @@ My journey to Python Backend Developer
 # - Понял роль Session при выполнении запросов к базе данных.
 # - Практиковался в получении Session и использовании её в endpoint FastAPI.
 # - Закрепил базовую работу с Session при взаимодействии с PostgreSQL.
+# - Изучил реализацию CRUD-операций через FastAPI API и SQLAlchemy.
+# - Разобрал создание записей через POST-запросы.
+# - Практиковался в получении данных через GET-запросы.
+# - Разобрал обновление данных через PUT/PATCH-запросы.
+# - Практиковался в удалении записей через DELETE-запросы.
+# - Понял связь между HTTP-методами, SQLAlchemy Session и операциями с базой данных.
+# - Закрепил базовый CRUD через API с использованием FastAPI и SQLAlchemy.
