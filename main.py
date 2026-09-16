@@ -2918,6 +2918,7 @@ My journey to Python Backend Developer
 #
 # Изучил:
 # - Подключение PostgreSQL.
+# - Работа с Session.
 #
 # Практика:
 # - Изучил подключение FastAPI-приложения к PostgreSQL через SQLAlchemy.
@@ -2926,3 +2927,8 @@ My journey to Python Backend Developer
 # - Разобрал использование DATABASE_URL для хранения данных подключения.
 # - Понял отличие подключения через `postgresql://` и `postgresql+psycopg://`.
 # - Закрепил подключение PostgreSQL через SQLAlchemy и psycopg.
+# - Изучил работу с Session в SQLAlchemy.
+# - Разобрал создание Session через sessionmaker.
+# - Понял роль Session при выполнении запросов к базе данных.
+# - Практиковался в получении Session и использовании её в endpoint FastAPI.
+# - Закрепил базовую работу с Session при взаимодействии с PostgreSQL.
