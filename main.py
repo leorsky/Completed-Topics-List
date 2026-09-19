@@ -3062,3 +3062,19 @@ My journey to Python Backend Developer
 # - Создал модель `OrderItem`.
 # - Создал модель `Cart`.
 # - Создал модель `CartItem`.
+
+
+# 19.09.2026
+# Phase 5 — FastAPI
+#
+# Блок 6 — CRUD API.
+#
+# 5. Настройка связей между моделями:
+# - Реализовал связь User → Cart — One-to-One.
+# - Реализовал связь User → Order — One-to-Many.
+# - Реализовал связь Category → Product — One-to-Many.
+# - Реализовал связь Order → OrderItem — One-to-Many.
+# - Реализовал связь Product → OrderItem — One-to-Many.
+# - Реализовал связь Cart → CartItem — One-to-Many.
+# - Реализовал связь Product → CartItem — One-to-Many.
+# - Через промежуточные модели `OrderItem` и `CartItem` реализовал связь товаров с заказами и корзинами.
