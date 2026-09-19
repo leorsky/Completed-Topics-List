@@ -3078,3 +3078,11 @@ My journey to Python Backend Developer
 # - Реализовал связь Cart → CartItem — One-to-Many.
 # - Реализовал связь Product → CartItem — One-to-Many.
 # - Через промежуточные модели `OrderItem` и `CartItem` реализовал связь товаров с заказами и корзинами.
+#
+# 6. Настройка Alembic:
+# - Установил и настроил Alembic.
+# - Настроил подключение Alembic к PostgreSQL.
+# - Подключил Alembic к SQLAlchemy `Base`.
+# - Настроил обнаружение ORM-моделей при создании миграций.
+# - Создал миграции для моделей проекта.
+# - Выполнил миграции базы данных через `alembic upgrade head`.
