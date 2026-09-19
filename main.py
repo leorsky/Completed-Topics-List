@@ -3036,3 +3036,10 @@ My journey to Python Backend Developer
 # - Настроил виртуальное окружение проекта.
 # - Подключил необходимые зависимости.
 # - Подготовил структуру для работы с базой данных и SQLAlchemy.
+#
+# 2. Подключение PostgreSQL:
+# - Создал PostgreSQL базу данных для проекта.
+# - Настроил подключение приложения к PostgreSQL.
+# - Создал SQLAlchemy Engine.
+# - Настроил работу с SQLAlchemy Session.
+# - Создал Declarative Base для ORM-моделей.
