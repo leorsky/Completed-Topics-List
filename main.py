@@ -3043,3 +3043,13 @@ My journey to Python Backend Developer
 # - Создал SQLAlchemy Engine.
 # - Настроил работу с SQLAlchemy Session.
 # - Создал Declarative Base для ORM-моделей.
+#
+# 3. Настройка SQLAlchemy ORM:
+# - Подготовил базовую конфигурацию SQLAlchemy.
+# - Создал ORM-модели проекта.
+# - Для моделей определил таблицы и колонки.
+# - Настроил первичные ключи.
+# - Настроил внешние ключи.
+# - Добавил ограничения `nullable`, `unique`, `default`.
+# - Настроил даты создания записей.
+# - Определил связи между моделями через `relationship()`.
